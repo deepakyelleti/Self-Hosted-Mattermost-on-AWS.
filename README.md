@@ -110,6 +110,7 @@ A step-by-step walkthrough of the full deployment process:
 ![Screenshot 2025-02-24 142709](https://github.com/user-attachments/assets/9f5658f2-ce0a-4e24-8be2-a8cb432752a1)
 ![Screenshot 2025-02-24 142729](https://github.com/user-attachments/assets/963374fb-6087-4618-a3da-fb4022c369ee)
 ![Screenshot 2025-02-24 143019](https://github.com/user-attachments/assets/05024d10-c6dc-4538-aaf7-1bcae8e638d0)
+![Screenshot 2025-02-24 145406](https://github.com/user-attachments/assets/669478c0-5bd2-4d3d-8268-4ae51cd669b5)
 
 9. *Launch the Database Server (EC2)*  
    - In the private subnet  
