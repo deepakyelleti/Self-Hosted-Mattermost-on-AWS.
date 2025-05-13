@@ -102,6 +102,14 @@ A step-by-step walkthrough of the full deployment process:
 8. *Launch the Application Server (EC2)*  
    - In the public subnet  
    - Install prerequisites (Docker, etc.)
+![Screenshot 2025-02-24 140528](https://github.com/user-attachments/assets/45fe48b6-8afc-4a5b-90d9-1303b97f89cc)
+![Screenshot 2025-02-24 140647](https://github.com/user-attachments/assets/f21b09dd-fe1b-464b-96fb-a932dabef558)
+![Screenshot 2025-02-24 142431](https://github.com/user-attachments/assets/efa17d9d-1bdc-4365-9af6-400cdf15a08c)
+![Screenshot 2025-02-24 142528](https://github.com/user-attachments/assets/a04e67a1-072e-4e2c-8108-ebbc34567076)
+![Screenshot 2025-02-24 142605](https://github.com/user-attachments/assets/f7b73609-5a2c-4040-8e1a-ac90a252eef5)
+![Screenshot 2025-02-24 142709](https://github.com/user-attachments/assets/9f5658f2-ce0a-4e24-8be2-a8cb432752a1)
+![Screenshot 2025-02-24 142729](https://github.com/user-attachments/assets/963374fb-6087-4618-a3da-fb4022c369ee)
+![Screenshot 2025-02-24 143019](https://github.com/user-attachments/assets/05024d10-c6dc-4538-aaf7-1bcae8e638d0)
 
 9. *Launch the Database Server (EC2)*  
    - In the private subnet  
