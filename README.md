@@ -11,7 +11,7 @@ This architecture ensures complete control over infrastructure and data, in line
 ---
 
 ## Architecture Diagram
-![Screenshot 2025-02-23 190906](https://github.com/user-attachments/assets/782a64e5-aec7-4d09-b294-f0dc93cb5672)
+![AWS VPC Architecture](https://github.com/user-attachments/assets/782a64e5-aec7-4d09-b294-f0dc93cb5672)
 
 ---
 
