@@ -72,6 +72,7 @@ A step-by-step walkthrough of the full deployment process:
 ![Screenshot 2025-02-24 114306](https://github.com/user-attachments/assets/7c6632d2-4318-4114-b551-fc2d44f246ed)
 ![Screenshot 2025-02-24 114556](https://github.com/user-attachments/assets/c5c6e121-509e-4dd2-bb07-ee0b8b09e87b)
 ![Screenshot 2025-02-24 114803](https://github.com/user-attachments/assets/ae561b6a-6d28-4126-80c8-8c64c92e3716)
+![Screenshot 2025-02-24 124745](https://github.com/user-attachments/assets/c35b190a-5cc8-4376-85cf-2af1df613e41)
 ![Screenshot 2025-02-24 114949](https://github.com/user-attachments/assets/80abf638-397a-4f33-b535-6340e0276eff)
 ![Screenshot 2025-02-24 115516](https://github.com/user-attachments/assets/ca4956b6-0825-48d0-84ef-1374bec380bc)
 ![Screenshot 2025-02-24 115629](https://github.com/user-attachments/assets/0e2a8427-378d-4034-81fc-3858db622b8d)
