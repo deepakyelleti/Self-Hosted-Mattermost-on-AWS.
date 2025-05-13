@@ -60,6 +60,7 @@ A step-by-step walkthrough of the full deployment process:
    - Attach to your VPC  
    - Allows public subnet to reach the Internet
 ![Screenshot 2025-02-24 112313](https://github.com/user-attachments/assets/b10ffabb-cb87-4fd9-ab17-7ba244eaabaa)
+![Screenshot 2025-02-24 112353](https://github.com/user-attachments/assets/3c511df6-d0d6-40a7-a597-49b3f39c3324)
 ![Screenshot 2025-02-24 112634](https://github.com/user-attachments/assets/4dc7773b-2398-4332-98d6-fc0deebbdfb1)
 ![Screenshot 2025-02-24 113150](https://github.com/user-attachments/assets/0cba5c47-86d4-44d6-966a-db709f8e9589)
 ![Screenshot 2025-02-24 113310](https://github.com/user-attachments/assets/10953c15-b528-41ec-9f5b-1697ff385f3d)
