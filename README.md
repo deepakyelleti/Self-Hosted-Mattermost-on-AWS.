@@ -114,6 +114,14 @@ A step-by-step walkthrough of the full deployment process:
 9. *Launch the Database Server (EC2)*  
    - In the private subnet  
    - Harden security group to allow only application server
+![Screenshot 2025-02-24 143223](https://github.com/user-attachments/assets/1c469b16-0d9d-4b26-afe6-86fcbd84401d)
+![Screenshot 2025-02-24 143335](https://github.com/user-attachments/assets/a59aaaee-971c-4392-969e-7300198434dc)
+![Screenshot 2025-02-24 144625](https://github.com/user-attachments/assets/ab664d01-384e-46ec-8725-802defb9c373)
+![Screenshot 2025-02-24 144715](https://github.com/user-attachments/assets/feb60311-bc63-47cf-9f42-d65e06422ef4)
+![Screenshot 2025-02-24 144746](https://github.com/user-attachments/assets/521aa064-2e9b-4705-9a3b-6a46da42987f)
+![Screenshot 2025-02-24 144915](https://github.com/user-attachments/assets/299edc5b-36e5-4d57-acae-fce2c1279b74)
+![Screenshot 2025-02-24 145602](https://github.com/user-attachments/assets/9db52461-8adf-453b-93c3-3065c951fef1)
+![Screenshot 2025-02-24 145736](https://github.com/user-attachments/assets/25dede31-bd80-41a7-8910-0459b3484d7f)
 
 10. *Install & Configure MySQL*  
     - Secure installation (mysql_secure_installation)  
