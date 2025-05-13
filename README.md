@@ -6,7 +6,7 @@ Deploy a self-hosted instant-messaging platform (Mattermost) on AWS. This soluti
 - A *private subnet* for a MySQL database  
 - Standard AWS networking components (VPC, Internet Gateway, Route Tables, NAT Gateway)  
 
-This architecture ensures complete control over infrastructure and data, in line with organizational policies. :contentReference[oaicite:0]{index=0}:contentReference[oaicite:1]{index=1}
+This architecture ensures complete control over infrastructure and data, in line with organizational policies.
 
 ---
 
@@ -95,6 +95,6 @@ You should see a fully operational Mattermost instance, with data persisted in y
 *Deepak Yelleti* (Student ID: A0000074884)  
 COMP-692-AH1 – Topics in Computer Science, Rivier University  
 Professor: Dr. Renu Paldiwal  
-Date: February 25, 2025 :contentReference[oaicite:2]{index=2}:contentReference[oaicite:3]{index=3}
+Date: February 25, 2025
 
 ---
