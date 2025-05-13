@@ -68,6 +68,14 @@ A step-by-step walkthrough of the full deployment process:
 5. *Configure Public Route Table*  
    - Route 0.0.0.0/0 → Internet Gateway  
    - Associate with public subnet
+![Screenshot 2025-02-24 114239](https://github.com/user-attachments/assets/96a5813b-a11c-4905-8739-f3ad6a889251)
+![Screenshot 2025-02-24 114306](https://github.com/user-attachments/assets/7c6632d2-4318-4114-b551-fc2d44f246ed)
+![Screenshot 2025-02-24 114556](https://github.com/user-attachments/assets/c5c6e121-509e-4dd2-bb07-ee0b8b09e87b)
+![Screenshot 2025-02-24 114803](https://github.com/user-attachments/assets/ae561b6a-6d28-4126-80c8-8c64c92e3716)
+![Screenshot 2025-02-24 114949](https://github.com/user-attachments/assets/80abf638-397a-4f33-b535-6340e0276eff)
+![Screenshot 2025-02-24 115516](https://github.com/user-attachments/assets/ca4956b6-0825-48d0-84ef-1374bec380bc)
+![Screenshot 2025-02-24 115629](https://github.com/user-attachments/assets/0e2a8427-378d-4034-81fc-3858db622b8d)
+![Screenshot 2025-02-24 120002](https://github.com/user-attachments/assets/609f5174-80f4-4a0d-8d8e-94391eda8a4a)
 
 6. *Deploy a NAT Gateway*  
    - In the public subnet  
