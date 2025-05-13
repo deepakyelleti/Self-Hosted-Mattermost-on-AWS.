@@ -36,6 +36,7 @@ A step-by-step walkthrough of the full deployment process:
 1. *Create a VPC*  
    - Define CIDR block (e.g. 10.0.0.0/16)  
    - Enable DNS hostnames
+![Screenshot 2025-02-24 102733](https://github.com/user-attachments/assets/ed639f75-34e9-49d4-accf-474db6e38fce)
 
 2. *Create a Public Subnet*  
    - Place application server here  
