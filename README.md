@@ -59,6 +59,11 @@ A step-by-step walkthrough of the full deployment process:
 4. *Create and Attach an Internet Gateway*  
    - Attach to your VPC  
    - Allows public subnet to reach the Internet
+![Screenshot 2025-02-24 112313](https://github.com/user-attachments/assets/b10ffabb-cb87-4fd9-ab17-7ba244eaabaa)
+![Screenshot 2025-02-24 112634](https://github.com/user-attachments/assets/4dc7773b-2398-4332-98d6-fc0deebbdfb1)
+![Screenshot 2025-02-24 113150](https://github.com/user-attachments/assets/0cba5c47-86d4-44d6-966a-db709f8e9589)
+![Screenshot 2025-02-24 113310](https://github.com/user-attachments/assets/10953c15-b528-41ec-9f5b-1697ff385f3d)
+![Screenshot 2025-02-24 113616](https://github.com/user-attachments/assets/5a879f39-7065-468e-af5d-540bfc897180)
 
 5. *Configure Public Route Table*  
    - Route 0.0.0.0/0 → Internet Gateway  
