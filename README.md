@@ -80,6 +80,10 @@ A step-by-step walkthrough of the full deployment process:
 6. *Deploy a NAT Gateway*  
    - In the public subnet  
    - Allows private subnet instances outbound Internet access
+![Screenshot 2025-02-24 120442](https://github.com/user-attachments/assets/91b42793-cd39-4a00-a9e3-b1cdf6b4a9c5)
+![Screenshot 2025-02-24 120816](https://github.com/user-attachments/assets/bbb34985-2370-488e-bd31-612bdec8f66e)
+![Screenshot 2025-02-24 121021](https://github.com/user-attachments/assets/3dac038a-6dd7-470e-bcdc-19a606b9ca43)
+![Screenshot 2025-02-24 121243](https://github.com/user-attachments/assets/a846c2c5-8ae2-495e-841e-5f868a93cb18)
 
 7. *Configure Private Route Table*  
    - Route 0.0.0.0/0 → NAT Gateway  
