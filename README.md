@@ -88,6 +88,15 @@ A step-by-step walkthrough of the full deployment process:
 7. *Configure Private Route Table*  
    - Route 0.0.0.0/0 → NAT Gateway  
    - Associate with private subnet
+![Screenshot 2025-02-24 121908](https://github.com/user-attachments/assets/30da0888-e772-455a-87dc-86b9aaf3be76)
+![Screenshot 2025-02-24 122030](https://github.com/user-attachments/assets/5e7b53fe-27e7-410e-84e6-5875b382eb62)
+![Screenshot 2025-02-24 122634](https://github.com/user-attachments/assets/a4580e73-6a4c-4bf7-afb8-f57814cec8bb)
+![Screenshot 2025-02-24 123525](https://github.com/user-attachments/assets/5b59c068-201f-4f10-a03a-1a59dc108978)
+![Screenshot 2025-02-24 124029](https://github.com/user-attachments/assets/2d42fd66-ec7a-47c0-83fb-9aa442e7f015)
+![Screenshot 2025-02-24 124316](https://github.com/user-attachments/assets/609b878a-7492-4d39-8384-13044fb4e4e3)
+![Screenshot 2025-02-24 124435](https://github.com/user-attachments/assets/dbce2b40-6255-4d0b-8374-5bf42667da4e)
+![Screenshot 2025-02-24 124452](https://github.com/user-attachments/assets/176c0d01-dac2-40fb-afee-da892c5d1262)
+![Screenshot 2025-02-24 124637](https://github.com/user-attachments/assets/acbfb0be-092b-42f0-b059-06c0c8fec46c)
 
 8. *Launch the Application Server (EC2)*  
    - In the public subnet  
