@@ -127,22 +127,34 @@ A step-by-step walkthrough of the full deployment process:
 10. *Install & Configure MySQL*  
     - Secure installation (mysql_secure_installation)  
     - Create Mattermost database and user
+![Screenshot 2025-02-24 151519](https://github.com/user-attachments/assets/6b712a55-5f04-4aa8-b255-d7a5603bbb73)
+![Screenshot 2025-02-24 152029](https://github.com/user-attachments/assets/94942503-fc49-4027-932c-1f8b3b407ad5)
+![Screenshot 2025-02-24 153924](https://github.com/user-attachments/assets/8ca8fe74-c9e2-439e-bec0-ade01d1f8e75)
+![Screenshot 2025-02-24 154835](https://github.com/user-attachments/assets/4ba30a5f-b0e8-49f6-9ffd-0ef557c221c2)
+![Screenshot 2025-02-24 155556](https://github.com/user-attachments/assets/03821b82-f6e1-4f08-8214-8af89e4fa7d9)
+![Screenshot 2025-02-24 160630](https://github.com/user-attachments/assets/544f1891-f6a8-46ab-8e35-cca89e47e356)
+![Screenshot 2025-02-24 160957](https://github.com/user-attachments/assets/7a450ff0-b608-43a8-b277-c1d14b808629)
+![Screenshot 2025-02-24 164339](https://github.com/user-attachments/assets/4e9bc363-5c0a-4258-8df9-5873d64384ec)
 
 11. *Install & Configure Mattermost*  
     - Download Mattermost server  
     - Configure config.json to point at your MySQL endpoint  
     - Start Mattermost service
+![Screenshot 2025-02-24 171817](https://github.com/user-attachments/assets/1de949a9-6035-47ed-9b73-29486c5d368b)
+![Screenshot 2025-02-24 172044](https://github.com/user-attachments/assets/58637781-8504-4f52-adc7-4f998889ef56)
+![Screenshot 2025-02-24 172304](https://github.com/user-attachments/assets/4d8b2363-191f-4d6d-97f9-01312e794183)
+![Screenshot 2025-02-24 173111](https://github.com/user-attachments/assets/7021ac5a-fc36-495b-a4c6-c5582ad0e818)
 
 ---
 
 ## Verification & Usage
-- *Access Mattermost* via the application server’s public IP or DNS  
-- *Log in* with the default sysadmin account, then create new teams, channels, and users  
+- *Access Mattermost* via the application server’s public IP or DNS 
 
 ---
 
-## Result
-You should see a fully operational Mattermost instance, with data persisted in your private-subnet MySQL database.  
+## Result/Output
+The result is a fully operational Mattermost instance, with data persisted in the private-subnet MySQL database.  
+![Screenshot 2025-02-24 173624](https://github.com/user-attachments/assets/37bc8f3f-0d5d-424d-9dcd-ab7219d600d4)
 
 ---
 
