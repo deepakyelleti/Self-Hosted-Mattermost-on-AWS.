@@ -36,6 +36,7 @@ A step-by-step walkthrough of the full deployment process:
 1. *Create a VPC*  
    - Define CIDR block (e.g. 10.0.0.0/16)  
    - Enable DNS hostnames
+
 ![Screenshot 2025-02-24 102733](https://github.com/user-attachments/assets/ed639f75-34e9-49d4-accf-474db6e38fce)
 
 ![Screenshot 2025-02-24 103137](https://github.com/user-attachments/assets/707f73d8-ab3b-41ef-b0bf-5e3418b6d210)
@@ -43,6 +44,7 @@ A step-by-step walkthrough of the full deployment process:
 2. *Create a Public Subnet*  
    - Place application server here  
    - Associate with Internet Gateway
+
 ![Screenshot 2025-02-24 105223](https://github.com/user-attachments/assets/7b307f4f-a55a-4df9-9bb8-9163bd1a644a)
 
 ![Screenshot 2025-02-24 105241](https://github.com/user-attachments/assets/0ae453c8-e5b6-4571-99ff-44303b56b383)
@@ -56,6 +58,7 @@ A step-by-step walkthrough of the full deployment process:
 3. *Create a Private Subnet*  
    - Place MySQL database server here  
    - No direct Internet access
+
 ![Screenshot 2025-02-24 110238](https://github.com/user-attachments/assets/85846d1f-75c6-4025-acdc-f2773fac427b)
 
 ![Screenshot 2025-02-24 110306](https://github.com/user-attachments/assets/33c6735a-ac93-44c2-9e7a-089f333a7397)
