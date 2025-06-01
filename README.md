@@ -15,15 +15,6 @@ This architecture ensures complete control over infrastructure and data, in line
 
 ---
 
-## Demo Video
-A step-by-step walkthrough of the full deployment process:
-
-▶ [Watch the video demo](video/demo.mp4)
-
-*Place your demo.mp4 file inside the video/ directory before publishing.*
-
----
-
 ## Prerequisites
 - AWS account with permissions to create VPCs and EC2 instances  
 - AWS CLI or Console access  
